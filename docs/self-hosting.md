@@ -6,7 +6,7 @@ Kortix is the open-source AI Operating System, and this starter runs on your own
 
 Everything you configured stays in one git repo you own: the agents, the skills, the memory, the connector config, and the triggers. The Kortix stack adds the control plane that runs them. That stack is the frontend, the API, the LLM gateway, and the Supabase distribution in a single Docker Compose file.
 
-Agent sessions run on a separate sandbox provider, not on this stack. The default provider is Daytona; Platinum and E2B are also supported. Keeping the control plane and the work apart means a busy session does not starve the instance that runs it.
+Agent sessions run on a separate sandbox provider, not on this stack. Platinum is the default provider; Daytona remains available as a legacy fallback. Keeping the control plane and the work apart means a busy session does not starve the instance that runs it.
 
 ## The steps
 
