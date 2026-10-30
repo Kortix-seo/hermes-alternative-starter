@@ -1,6 +1,6 @@
 # Kortix starter: the open-source Hermes alternative for teams
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository is a copy-and-run starter for a team that has outgrown a personal agent and wants that system running inside its own project.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository is a copy-and-run starter for a team that has outgrown a personal agent and wants that system running inside its own project.
 
 If you are still weighing the move, [a side-by-side of the open-source Hermes alternatives](https://hermesalternative.com/hermes-alternatives) shows where a personal agent stops and a company platform starts.
 
